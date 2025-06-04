@@ -31,5 +31,12 @@ color: var(--text-primary);
 h4{
     color: var(--text-secundary);
     font-size: 1.6rem;
-    
+
+}
+p{
+    color: var(--text-secundary);
+}
+ul{
+    padding-left: 2.4rem;
+    font-weight: 700;
 }
