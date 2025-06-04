@@ -13,4 +13,9 @@ height: 66rem;
             text-align: center;
         }
     }
+    .divider{
+        height: 1px;
+        background-color: var(--border-primary);
+        margin-block: 4rem;
+    }
 }
